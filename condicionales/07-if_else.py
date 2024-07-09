@@ -16,10 +16,10 @@ else:
 print("No forma parte de ninguna condición")
 
 
-contraseña_almacenada = "CursoPython"
-constraseña_escrita = '''CursoPython'''
+contraseña_Almacenada = "CursoPython"
+constraseña_Escrita = '''CursoPython'''
 
-if contraseña_almacenada == constraseña_escrita:
+if contraseña_Almacenada == constraseña_Escrita:
     print("INICIANDO SESIÓN...")
 else:
     print("CONTRASEÑA EQUIVOCADA, INTENTE DE NUEVO")
